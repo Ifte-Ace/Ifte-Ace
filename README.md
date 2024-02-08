@@ -2,5 +2,5 @@
 - I'm interested in anything tech related and yes that includes electronic spoons (I shall revolutionize the world with that invention)
 - I’m currently taking courses to strengthen my skills and learning how to play the guitar so I can play my favorite video game music
 - How to reach me: I've only really made code for circuitry such as Arduino and Raspberry Pi so if you need a fun project or would like to send a fun project you can reach me at ifteace@gmail.com
-- I have done a few small projects for coursework in Java and Ubuntu, but a lot fewer for C++ 
+- I have done a few small projects in HTML and coursework in Java and Ubuntu, but a lot fewer for C++ 
 - Fun fact: I once had an accident including a treadmill which required a hospital visit and you can still see the injury on my hand
